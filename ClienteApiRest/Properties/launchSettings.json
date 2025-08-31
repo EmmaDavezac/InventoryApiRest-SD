@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "ClienteApiRest": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
