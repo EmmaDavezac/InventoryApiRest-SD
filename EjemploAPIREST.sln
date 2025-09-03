@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.14.36414.22
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ServicioApiRest", "ejemplo api rest\ServicioApiRest.csproj", "{42DAA3B1-19AD-4EF3-833F-15F6F282AA46}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InventoryService", "ejemplo api rest\InventoryService.csproj", "{42DAA3B1-19AD-4EF3-833F-15F6F282AA46}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClienteApiRest", "ClienteApiRest\ClienteApiRest.csproj", "{AB833F15-CB40-4A06-97D7-1F4E97BAE540}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OrderService", "ClienteApiRest\OrderService.csproj", "{AB833F15-CB40-4A06-97D7-1F4E97BAE540}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
